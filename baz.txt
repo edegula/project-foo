@@ -1,2 +1,3 @@
 git is awesome
-update via bugfix/baz
+update via bugfix/baz - Update from feature/bar2
+update from feature/bar2
