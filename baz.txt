@@ -1,2 +1,3 @@
 git is awesome
-update via bugfix/baz
+update via bugfix/baz - update from bugfix/baz2
+another entry in the file for bugfix/baz2
